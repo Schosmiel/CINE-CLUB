@@ -15,9 +15,13 @@ movie.py
 This script defines a class Movie and a few methods for managing a list of movies stored in a JSON file.
 
 1 - Import necessary modules (os, json, and logging).
+
 2 - Set the data file path for movies.
+
 3 - Define a function get_movies to read and return a list of movies from the JSON data file.
+
 4 - Define a class Movie to represent a movie and its methods to add and remove movies from the list.
+
 5 - Check if this script is the main module and if so, get the list of movies and print them.
 
 app.py

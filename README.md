@@ -12,6 +12,7 @@ Before running this application, make sure you have the following installed:
   # Code Explanation
 
 movie.py
+
 This script defines a class Movie and a few methods for managing a list of movies stored in a JSON file.
 
 1 - Import necessary modules (os, json, and logging).

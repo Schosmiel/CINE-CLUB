@@ -29,12 +29,19 @@ app.py
 This script is the main application. It uses the PySide6 library to create a GUI for managing movies.
 
 1 - Import necessary modules (PySide6, sys, get_movies, and Movie).
+
 2 - Define a class App for the main application window.
+
 3 - Set up the user interface (UI) with input fields for movie titles and buttons for adding and removing movies.
+
 4 - Set up signal connections for UI components.
+
 5 - Populate the movie list from the data file.
+
 6 - Implement methods for adding and removing movies.
+
 7 - Create a QApplication instance and the main application window.
+
 8 - Show the application window and run the event loop.
 
 
